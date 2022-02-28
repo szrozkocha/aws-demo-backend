@@ -14,7 +14,7 @@
 	<name>aws-demo-backend</name>
 	<description>Demo project for Spring Boot on aws</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
